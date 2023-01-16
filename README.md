@@ -14,7 +14,6 @@ At the end of the this project, students will be able to;
 
 - demonstrate their knowledge of algorithmic design principles.
 
-   
 ## Problem Statement
 
 - Design a weather condition page following the design and populate data for searched city with using of axios in JS.
